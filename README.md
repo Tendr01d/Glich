@@ -1,2 +1,2 @@
 # Glich
-Tut budut lab
+Tut budut labi
